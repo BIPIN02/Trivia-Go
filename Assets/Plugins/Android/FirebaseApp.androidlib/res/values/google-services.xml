@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://trivia-go-7c0ad-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">893744003378</string>
+  <string name="google_storage_bucket" translatable="false">trivia-go-7c0ad.appspot.com</string>
+  <string name="project_id" translatable="false">trivia-go-7c0ad</string>
+  <string name="google_api_key" translatable="false">AIzaSyCIPLEi6my1Lzq6GbgUlI3RWEygmn33t3Y</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCIPLEi6my1Lzq6GbgUlI3RWEygmn33t3Y</string>
+  <string name="google_app_id" translatable="false">1:893744003378:android:259623cade6b6c81d9ff2b</string>
+  <string name="default_web_client_id" translatable="false">893744003378-o9r6oe1vi0e2hn9q6ddvpknpkb4e3jt9.apps.googleusercontent.com</string>
+</resources>

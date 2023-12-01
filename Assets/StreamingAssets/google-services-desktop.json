@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "893744003378",
+    "firebase_url": "https://trivia-go-7c0ad-default-rtdb.firebaseio.com",
+    "project_id": "trivia-go-7c0ad",
+    "storage_bucket": "trivia-go-7c0ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893744003378:android:259623cade6b6c81d9ff2b",
+        "android_client_info": {
+          "package_name": "com.wonderclub.triviago"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893744003378-o9r6oe1vi0e2hn9q6ddvpknpkb4e3jt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIPLEi6my1Lzq6GbgUlI3RWEygmn33t3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893744003378-o9r6oe1vi0e2hn9q6ddvpknpkb4e3jt9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "893744003378-3f475kibbc60s82745cs4umf1a660b7t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wonderclub.triviago"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
